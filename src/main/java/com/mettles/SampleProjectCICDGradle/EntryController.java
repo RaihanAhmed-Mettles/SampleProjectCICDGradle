@@ -8,6 +8,6 @@ public class EntryController {
 
     @RequestMapping("/")
     public String index() {
-        return "Greetings from Spring Boot! Testing poll 5";
+        return "Greetings from Spring Boot! Testing poll 6";
     }
 }
